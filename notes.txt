@@ -1,0 +1,29 @@
+SLIDE 1
+Speaker Notes
+Neste slide, estamos explorando o conceito de Inteligência Artificial, ou simplesmente AI.
+De forma geral, Inteligência Artificial é a capacidade de sistemas computacionais simularem habilidades humanas, como entender linguagem, reconhecer imagens, tomar decisões e até criar novos conteúdos.
+Podemos dividir esse universo em alguns principais pilares:
+Primeiro, a IA Generativa, que é responsável por criar conteúdos novos, como textos, imagens, código e até vídeos. É o que vemos em ferramentas como copilots e assistentes inteligentes.
+Depois, temos Agentes e Automação, que permitem que sistemas executem tarefas de forma autônoma, seguindo regras ou objetivos, reduzindo esforço manual e aumentando eficiência operacional.
+Outro pilar fundamental é o Processamento de Linguagem Natural, que permite que máquinas entendam e interajam com a linguagem humana, seja em textos ou voz.
+Também temos a Visão Computacional, que capacita sistemas a interpretar imagens e vídeos, identificando objetos, padrões e informações visuais.
+E por fim, a Extração de Informação, que transforma dados não estruturados — como documentos e formulários — em dados utilizáveis para análise e tomada de decisão.
+Por trás de todos esses pilares está o Machine Learning, que é a base tecnológica que permite que esses sistemas aprendam a partir de dados, identifiquem padrões e melhorem com o tempo.
+Em resumo, a Inteligência Artificial combina essas capacidades para transformar dados em insights, automatizar processos e criar novas experiências digitais.
+
+SLIDE 2
+Speaker Notes
+Neste slide, vamos aprofundar um dos pilares mais relevantes hoje: a IA Generativa.
+A IA Generativa é a capacidade de criar conteúdos novos a partir de um modelo de linguagem, conhecido como language model.
+Esses modelos podem ser divididos em dois grandes grupos:
+Os Large Language Models, ou LLMs, que são treinados com volumes massivos de dados e possuem milhões — ou até bilhões — de parâmetros. Isso permite um alto nível de qualidade, contexto e sofisticação nas respostas.
+E os Small Language Models, ou SLMs, que são mais leves, treinados com menos dados e possuem menos parâmetros. Em compensação, são mais eficientes, rápidos e podem ser mais adequados para cenários específicos ou rodando localmente.
+Outro conceito chave aqui é o de prompt.
+O prompt é basicamente a entrada que fornecemos ao modelo — pode ser uma pergunta, uma instrução ou um contexto. A qualidade desse prompt influencia diretamente a qualidade da resposta gerada.
+A partir desse prompt, o modelo gera uma saída — que pode assumir diferentes formatos.
+Por exemplo, pode gerar texto em linguagem natural, como respostas ou resumos.
+Pode gerar imagens, criando conteúdo visual a partir de descrições.
+Pode gerar código, ajudando desenvolvedores a acelerar a construção de aplicações.
+E esse “e assim por diante” mostra que as possibilidades continuam evoluindo rapidamente.
+Em resumo, a IA Generativa transforma instruções em criação de valor, permitindo que usuários e empresas produzam conteúdo, automatizem tarefas cognitivas e acelerem inovação de forma significativa.
+
